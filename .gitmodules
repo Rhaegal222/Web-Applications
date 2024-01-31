@@ -5,5 +5,5 @@
 	path = WebApplications_23_24_Ristoranti_Frontend
 	url = https://github.com/KristianReale/WebApplications_23_24_Ristoranti_Frontend.git
 [submodule "Progetto-Web-Application"]
-	path = Progetto-Web-Application
-	url = https://github.com/Rhaegal222/Progetto-Web-Application.git
+	path = WebApplications_23_24_Ristoranti_Frontend
+	url = https://github.com/Rhaegal222/Progetto-Web-Application
