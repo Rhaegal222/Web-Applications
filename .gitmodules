@@ -1,6 +1,3 @@
-[submodule "Progetto-Web-Applications"]
-	path = Progetto-Web-Applications
-	url = https://github.com/Rhaegal222/Progetto-Web-Application.git
 [submodule "WebApplications_23_24"]
 	path = WebApplications_23_24
 	url = https://github.com/KristianReale/WebApplications_23_24.git
